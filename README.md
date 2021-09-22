@@ -1,4 +1,4 @@
-# StatisticalAnalysis_HypothesisTesting
+# Baby birth weight_HypothesisTesting
 
 This exercise analyses a dataset of baby birth weight to investigate the relationship between the variable "weight" and other variables using T-test where feasible. 
 Does weight vary with other variables?
